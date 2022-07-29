@@ -8,7 +8,7 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Arctic Monkeys](/writer/arctic_monkeys.md) | arctic.monkeys@onlyrics.magazine
 
-[Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
+[why’d you only call me when you’re high?](../song/feb/why’d_you_only_call_me.md)
 
 ### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
 
