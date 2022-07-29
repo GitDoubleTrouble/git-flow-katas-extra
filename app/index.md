@@ -6,18 +6,18 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ## Picks of the Month
 
-### [Arctic Monkeys](/writer/arctic_monkeys.md) | arctic.monkeys@onlyrics.magazine
+### [Arctic Monkeys](/writer/arctic_monkeys.md) 
 
 [why’d you only call me when you’re high?](../song/feb/why’d_you_only_call_me.md)
 
-### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
+### [Jhon Lennon](writer/john_lennon.md) 
 
 [OH My Love](song/feb/oh_my_love.md)
 
-### [Queen](writer/queen.md) | queen@onlyrics.magazine
+### [Queen](writer/queen.md) 
 
 [Somebody_to_love](song/feb/Somebody_to_love.md)
 
-### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
+### [The Killers](writer/the_killers) 
 
 [Somebody Told Me](song/feb/somebody_told_me.md)
